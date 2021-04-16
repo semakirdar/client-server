@@ -1,0 +1,12 @@
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SimpleTCP.dll
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCPIP.csprojAssemblyReference.cache
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCPIP.csproj.GenerateResource.cache
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TCPIP.csproj.CopyComplete
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SEMA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
